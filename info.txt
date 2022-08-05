@@ -1,0 +1,9 @@
+install vue:
+npm install -g @vue/cli
+install vue app in directory:
+vue create .
+manually select features
+choose router and vuex
+3.x
+history mode - yes
+placing babel, eslint - package.json
